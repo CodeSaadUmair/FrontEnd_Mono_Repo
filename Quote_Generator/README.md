@@ -16,12 +16,8 @@ This project is a simple web application that displays random inspirational quot
 - HTML: Structure of the webpage.
 - CSS: Styling of the page for a modern look.
 - JavaScript: Logic for selecting and displaying random quotes, as well as changing the background color.
-## How to Use
 
-- *link*:
 ## Files
-
-
 - index.html: The HTML structure of the webpage.
 - style.css: The CSS file for styling the page.
 - app.js: The JavaScript file that contains the logic for displaying random quotes and changing the background color.
