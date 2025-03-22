@@ -14,10 +14,6 @@ Whether you're looking for inspiration or just want to generate some cool random
 - **Mobile-Friendly Design**: The layout adapts to different screen sizes, from desktop to mobile.
 - **Interactive and User-Friendly**: Designed with ease of use in mind, the app is intuitive and interactive.
 
-## 🚀 Demo
-
-You can try the Color Generator online at [GitHub Pages]
-
 ## 📂 File Structure
 
 ```plaintext
