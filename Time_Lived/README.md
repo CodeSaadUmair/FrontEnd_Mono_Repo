@@ -16,36 +16,6 @@ The **Time Lived** application allows users to input their date of birth and vis
 - 🎨 **Interactive Elements**: Animated hover states and transitions, with an interactive settings icon.
 
 
-
-## 🚀 Live Demo
-
-Check out the live version here:  
-[Time Lived - Live Demo](https://CodeSaadUmair.github.io/Time-Lived/)
-## 🛠️ Getting Started
-
-Follow these steps to set up the project locally:
-
-### Prerequisites
-- A modern web browser.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CodeSaadUmair/Time-Lived.git
-   ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd Time-Lived
-    ```
-
-3. Open the `index.html` file in your browser:
-    ```bash
-    open index.html
-    ```
-    
-That’s it! The application should be running on your local machine.
 ## 📂 Folder Structure
 
 ```bash
