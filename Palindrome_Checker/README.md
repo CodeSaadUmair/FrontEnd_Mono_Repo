@@ -19,8 +19,6 @@ This project is a simple web application that checks if a given input is a palin
 - **JavaScript**: Logic for checking if the input is a palindrome.
 ## How to Use
 
-Link :
-
 
 ## Files
 
