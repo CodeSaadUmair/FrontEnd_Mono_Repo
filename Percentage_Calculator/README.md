@@ -2,9 +2,6 @@
 
 A modern and interactive web app to calculate the average percentage of multiple subjects. With a clean interface and simple functionality, users can dynamically add or remove subjects and compute their overall percentage with ease.
 
-## 🌐 Live Demo
-
-Experience the app live on GitHub Pages: [Percentage Calculator](https://CodeSaadUmair.github.io/Percentage-Calculator/)
 
 ## ✨ Features
 
