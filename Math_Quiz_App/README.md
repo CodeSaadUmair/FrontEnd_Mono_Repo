@@ -5,7 +5,6 @@ The Math Quiz App is an interactive web application that offers users a fun and 
 
 The application features a clean and modern design, ensuring a smooth user experience. Track your score in real-time and aim to beat your personal best with each attempt! 
 
-🌐 **Check out the live demo here**: [Math Quiz App GitHub Page](https://CodeSaadUmair.github.io/Math-Quiz-App/)
 
 ## Features 🚀
 - **Dynamic Questions**: Generates random math questions involving addition, subtraction, multiplication, and division based on the selected difficulty level.
