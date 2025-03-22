@@ -15,9 +15,6 @@ This project is a simple web application that functions as a stopwatch. It featu
 - **CSS**: Styles the page for a modern and minimalist appearance.
 - **JavaScript**: Handles the stopwatch functionality, including start, stop, and reset actions.
 
-## How to Use
-
-- *link*: 
 ## Files
 
 - **`index.html`**: Contains the HTML structure of the stopwatch.
