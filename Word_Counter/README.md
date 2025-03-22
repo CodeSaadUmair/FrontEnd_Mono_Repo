@@ -22,9 +22,7 @@ Whether you're a student, writer, or developer, this tool provides an easy and e
 - **Characters Count**: Displays the total number of characters in the text.
 - **Characters Without Spaces**: Excludes spaces from the character count.
 - **Word Count**: Displays the total number of words based on spaces and punctuation.
-## Usage
 
-- see here *Link* : 
 ## Technologies
 
 - HTML: Structure of the webpage.
