@@ -38,6 +38,3 @@ A simple web-based QR Code Generator that allows users to input text and generat
 - Save History: Enable users to save or track previously generated QR codes.
 - File Type Selection: Provide options to download QR codes in formats like .svg or .jpg.
 
-## GitHub Page
-
-[Live Demo](https://codesaadumair.github.io/QR-Code-Generator/)
