@@ -37,10 +37,6 @@ This project is designed for beginners and enthusiasts alike, helping users lear
 - **Start Drumming:**
   - Use the keyboard or click on the on-screen buttons to play sounds.
 
-## 🌐 Live Demo
-
-- **Link:**
-
 ## 🛠 Technologies Used
 
 - **HTML5:** For structuring the webpage.
