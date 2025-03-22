@@ -15,29 +15,6 @@ A responsive and dynamic **analog clock** web application built using **HTML**, 
 - **CSS3**: Styling the clock, ensuring a flexible and aesthetically pleasing design.
 - **JavaScript (ES6)**: Updates the clock hands dynamically, synchronizing with the local system's time.
 
-## 🚀 Installation and Setup
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/CodeSaadUmair/Clock-App.git
-    cd Clock-Aap
-    ```
-
-2. **Open the HTML file in your browser:**
-
-    Simply double-click `index.html` or open it via a local server (if needed).
-
-    ```bash
-    open index.html
-    ```
-
-3. **That's it!** You should see the clock running in real-time.
-
-
-
 
 ## 📖 Usage
 
@@ -64,9 +41,6 @@ Here are some ideas for enhancing this project:
 - 🔄 **Analog/Digital Toggle:** Allow users to switch between analog and digital clock styles.
 - 📲 **PWA Support:** Convert the clock into a Progressive Web App (PWA) so it can be installed and used offline.
 
-## 🔗 Demo
-
-Check out a live demo of the project [here](https://CodeSaadUmair.github.io/Clock-App).
 
 ## 📧 Contact
 
